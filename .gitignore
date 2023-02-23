@@ -131,4 +131,6 @@ dmypy.json
 # misc
 databases/uniprotSeq.txt
 go-directed-graph
-go_term_PFC.txt
+go_term_*.txt
+*_ic.txt
+*_counts.txt
